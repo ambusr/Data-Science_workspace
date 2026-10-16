@@ -1,0 +1,78 @@
+1.if Statement
+if condition:
+    statement
+
+
+Example:
+
+if x > 0:
+
+    print("Positive")
+
+✅ 2. if - else
+if condition:
+    statement1
+else:
+    statement2
+
+✅ 3. if - elif - else
+if condition1:
+    statement1
+elif condition2:
+    statement2
+elif condition3:
+    statement3
+else:
+    statement4
+
+✅ 4. Nested if
+if condition1:
+    if condition2:
+        statement
+    else:
+        statement
+
+✅ 5. for Loop
+for variable in sequence:
+    statement
+
+
+Example:
+
+for i in range(5):
+    print(i)
+
+✅ 6. while Loop
+while condition:
+    statement
+
+✅ 7. break
+for variable in sequence:
+    if condition:
+        break
+
+
+👉 Stops the loop immediately.
+
+✅ 8. continue
+for variable in sequence:
+    if condition:
+        continue
+
+
+👉 Skips current iteration and moves to next.
+
+✅ 9. pass
+if condition:
+    pass
+
+
+👉 Placeholder (does nothing).
+
+✅ 10. assert
+assert condition
+
+
+Or with message:
+
+assert condition, "Error message"

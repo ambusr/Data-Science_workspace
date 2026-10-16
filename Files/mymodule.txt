@@ -1,0 +1,94 @@
+Complete Python Modules Notes
+
+1. Definition of Module
+A module is a file containing Python definitions, functions, variables, and classes. It helps
+organize code and reuse it in different programs. The file extension must be .py.
+
+2. Features of Module
+• Contains functions, variables, and classes
+• Improves code reuse
+• Helps organize large programs
+• Reduces code duplication
+• Easy to maintain and debug
+
+3. Creating a Module
+
+Step 1: Create a file named mymodule.py
+Step 2: Write code inside the file
+
+Example: mymodule.py
+def greeting(name):
+ print("Hello, " + name)
+
+person1 = {
+ "name": "John",
+ "age": 36,
+ "country": "Norway"
+}
+
+4. Using a Module
+Import module using import keyword
+Example:
+import mymodule
+mymodule.greeting("Sona")
+
+5. Import with Alias
+You can rename module using 'as' keyword
+
+import mymodule as mx
+mx.greeting("Sona")
+Example:
+import mymodule
+mymodule.greeting("Sona")
+
+6. Variables in Module
+A module can contain variables like list, dictionary, etc.
+import mymodule
+print(mymodule.person1["age"])
+Example:
+import mymodule
+mymodule.greeting("Sona")
+
+7. Import Specific Item
+You can import specific function or variable using from keyword
+from mymodule import greeting
+greeting("Sona")
+Example:
+import mymodule
+mymodule.greeting("Sona")
+
+8. Built-in Modules
+Python provides built-in modules like math, sys, platform, datetime, random.
+import platform
+print(platform.system())
+Example:
+import mymodule
+mymodule.greeting("Sona")
+
+9. 
+import platform
+print(dir(platform))
+Example:
+
+import mymodule
+mymodule.greeting("Sona")
+
+10. Types of Modules
+
+1. Built-in modules
+2. User-defined modules
+
+11. Advantages of Modules
+• Code reuse
+• Easy debugging
+• Organized code
+• Improves readability
+• Saves development time
+
+12. Example Complete Program
+# mymodule.py
+def add(a, b):
+ return a + b
+# main.py
+import mymodule
+print(mymodule.add(5, 3))

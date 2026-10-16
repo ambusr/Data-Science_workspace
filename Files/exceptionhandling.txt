@@ -1,0 +1,124 @@
+PYTHON EXCEPTION HANDLING - COMPLETE NOTES
+
+1. DEFINITION
+An exception is an error that occurs during program execution.
+It interrupts the normal flow of the program.
+
+Example:
+try:
+    print(10/0)
+except:
+    print("Error occurred")
+
+
+2. WHY EXCEPTION HANDLING
+- Prevent program crash
+- Handle errors easily
+- Maintain normal program flow
+- Improve reliability
+
+
+3. TRY AND EXCEPT BLOCK
+
+Syntax:
+try:
+    code
+except:
+    code
+
+Example:
+try:
+    x = 10/0
+except:
+    print("Cannot divide by zero")
+
+
+4. HANDLING SPECIFIC EXCEPTION
+
+Example:
+try:
+    num = int("abc")
+except ValueError:
+    print("Conversion error")
+
+
+5. MULTIPLE EXCEPT BLOCKS
+
+Example:
+try:
+    a = int(input("Enter number: "))
+    b = int(input("Enter number: "))
+    print(a/b)
+except ValueError:
+    print("Invalid input")
+except ZeroDivisionError:
+    print("Cannot divide by zero")
+
+
+6. ELSE BLOCK
+
+else block executes if no exception occurs.
+
+Example:
+try:
+    x = 10/2
+except:
+    print("Error")
+else:
+    print("Result:", x)
+
+
+7. FINALLY BLOCK
+
+finally block always executes.
+
+Example:
+try:
+    x = 10/0
+except:
+    print("Error")
+finally:
+    print("Execution finished")
+
+
+8. RAISE KEYWORD
+
+Used to create exception manually.
+
+Example:
+age = -5
+
+if age < 0:
+    raise ValueError("Age cannot be negative")
+
+
+9. USER-DEFINED EXCEPTION
+
+Example:
+class MyError(Exception):
+    pass
+
+try:
+    raise MyError("Custom error")
+except MyError as e:
+    print(e)
+
+
+10. COMMON BUILT-IN EXCEPTIONS
+
+ZeroDivisionError  - division by zero
+ValueError         - invalid value
+TypeError          - wrong data type
+IndexError         - invalid index
+NameError          - variable not defined
+FileNotFoundError  - file not found
+
+
+11. ADVANTAGES
+
+- Prevent program crash
+- Easy debugging
+- Maintain program flow
+- Reliable programs
+
+
