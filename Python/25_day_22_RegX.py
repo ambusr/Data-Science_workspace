@@ -1,4 +1,4 @@
-import re
+
 
 # RegEx Functions
 
@@ -64,13 +64,12 @@ import re
 # [a-zA-Z]  	Returns a match for any character alphabetically between a and z, lower case OR upper case 	
 # [+] 	        In sets, +, *, ., |, (), $,{} has no special meaning, so [+] means: return a match for any + character in the string
 
-
-
-
-
-#Check if the string starts with "The" and ends with "Spain":
+import re
 
 txt = "The rain in Spain"
+
+print("\n Check if the string starts with 'The' and ends with 'Spain'")
+
 x = re.search("^The.*Spain$", txt)
 
 if x:
@@ -78,3 +77,70 @@ if x:
 else:
   print("No match")
 
+print("\n Return a list containing every occurrence of 'ai':")
+
+x = re.findall("ai", txt)
+print(x)
+
+print('\n Check if "Portugal" is in the string:')
+x = re.findall("Portugal", txt)
+print(x)
+
+if (x):
+  print("Yes, there is at least one match!")
+else:
+  print("No match")
+
+print("\n find the position of first found charactor, here white space")
+x = re.search(r"\s", txt)
+
+print("The first white-space character is located in position:", x.start())
+
+print("\n search with no match")
+x = re.search("Portugal", txt)
+print(x)
+
+print('\n Split the string at every white-space character:')
+
+x = re.split(r"\s", txt)
+print(x)
+
+print("\n Split the string at the first white-space character:")
+
+x = re.split(r"\s", txt, maxsplit=1)
+print(x)
+
+print("\n Sub()")
+print('Replace all white-space characters with the digit "9":')
+
+x = re.sub(r"\s", "9", txt)
+print(x)
+print('Replace the first two occurrences of a white-space character with the digit 9:')
+
+x = re.sub(r"\s", "9", txt, count=2)
+print(x)
+
+print("\nThe search() function returns a Match object:")
+
+txt = "The rain in Spain"
+x = re.search("ai", txt)
+print(x)
+
+print('\nSearch for an upper case "S" character in the beginning of a word, and print its position:')
+# starting position included and final position excluded 
+
+txt = "The rain in Spain"
+x = re.search(r"\bS\w+", txt)
+print(x.span())
+
+print("\nThe string property returns the search string:")
+
+txt = "The rain in Spain"
+x = re.search(r"\bS\w+", txt)
+print(x.string)
+
+print('\nSearch for an upper case "S" character in the beginning of a word, and print the word:')
+
+txt = "The rain in Spain"
+x = re.search(r"\bS\w+", txt)
+print(x.group())
