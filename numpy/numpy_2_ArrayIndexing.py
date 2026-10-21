@@ -49,3 +49,4 @@ print ("assign 0 to numbers divisible by 20:",arr4)
 
 
 
+
