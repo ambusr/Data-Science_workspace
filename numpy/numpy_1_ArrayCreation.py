@@ -10,6 +10,9 @@ print()
 range_arr=np.arange(1,10,2)
 print("range array",range_arr)
 
+numbers = np.arange(1, 11)
+print("Numbers from 1 to 10:", numbers)
+
 linspace_arr = np.linspace(0, 1, 5)
 print("\n Linear Space Array",linspace_arr,'\n')
 
