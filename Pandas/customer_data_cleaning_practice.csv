@@ -1,0 +1,501 @@
+﻿Customer_ID,Customer_Name,Age,Gender,Email,Phone,City,Purchase_Amount,Purchase_Date
+CUST0001,Aditya Patel,50,Female,aditya.patel1@example.com,+91 8422996417,thiruvananthapuram,8459.02,31/05/2023
+CUST0002,Kiran Das,46,Male,kiran.das2@example.com,+91 6094922445,KOZHIKODE,7585.25,22/02/2023
+CUST0003,Diya Thomas,49,Other,diya.thomas3@example.com,+91 7861984500,thiruvananthapuram,15440.74,06-26-2024
+CUST0004,Pooja Das,68,Other,pooja.das4@example.com,+91 9675017765, KOCHI ,8517.25,16/12/2024
+CUST0005,Arjun Reddy,19,Male,arjun.reddy5@example.com,+91 9727524884,KOZHIKODE,16753.47,2023-04-11
+CUST0006,Manu Iyer,57,Female,manu.iyer6@example.com,+91 6361971997, KOCHI ,14184.0,06-17-2023
+CUST0007,Vikram Kumar,53,Male,vikram.kumar7@example.com,+91 7886156580,Chennai,13898.4,09-24-2025
+CUST0008,Gopika Reddy,40,Female,gopika.reddy8@example.com,+91 6871352625,kochi,7558.57,26/05/2025
+CUST0009,Ananya Menon,41,Female,ananya.menon9@example.com,+91 6719963649,Thrissur,14094.15,2023-07-09
+CUST0010,Sneha Patel,70,Other,sneha.patel10@example.com,+91 7289898492,Bengaluru,7596.81,2025-04-14
+CUST0011,Aisha Nair,65,Male,aisha.nair11@example.com,+91 6449588137,Pune,16183.39,31/12/2025
+CUST0012,Gopika Menon,59,Male,gopika@example,+91 7390198658,kochi,4334.42,04-08-2023
+CUST0013,Vikram Kumar,44,Male,vikram.kumar13@example.com,+91 8920382289,Alappuzha,10748.68,04-07-2025
+CUST0014,Thomas Kumar,19,Male,thomas.kumar14@example.com,+91 9253519465,Thiruvananthapuram,9655.75,2025-02-24
+CUST0015,Kiran Menon,25,Other,kiran.menon15@example.com,+91 7770568801,KOZHIKODE,10321.27,2024-07-12
+CUST0016,Kavya Mishra,40,Male,kavya.mishra16@example.com,+91 7891816692,BANGALORE,8633.27,16/12/2023
+CUST0017,Kavya Singh,175,Other,kavya.singh17@example.com,(90701) 81926, KOCHI ,5071.78,2023-05-23
+CUST0018,Gopika Singh,51,Male,gopika.singh18@example.com,+91 8689211197,Thrissur,15332.54,03-02-2025
+CUST0019,  ISHAAN RAO  ,44,Male,ishaan.rao19@example.com,+91 6197330295, Trivandrum ,13219.79,2023-09-06
+CUST0020,Diya Das,69,Female,diya.das20@example.com,+91 8077780132,Mumbai,13993.26,2024-11-02
+CUST0021,Aarav Rao,41,Female,aarav.rao21@example.com,+91 8713957393,thrissur ,332.09,07/01/2023
+CUST0022,Manu Patel,30,Other,manu.patel22@example.com,+91 8737561066,Pune,8204.0,06/04/2026
+CUST0023,Meera Kumar,56,Male,meera.kumar23@example.com,,Kochi,13776.44,08-25-2023
+CUST0024,Neha Reddy,24,Other,neha.reddy24@example.com,+91 8101691759, KOCHI ,9062.99,31/01/2025
+CUST0025,Vikram Kumar,39,Male,vikram.kumar25@example.com,+91 8532015779,KOZHIKODE,14951.47,01/03/2024
+CUST0026,Lakshmi Nair,50,Female,lakshmi.nair26@example.com,abcdefghij,Pune,15197.49,03-15-2024
+CUST0027,Aisha Thomas,35,Male,aisha.thomas27@example.com,+91 9180485300,MUMBAI,12457.03,2023-08-19
+CUST0028,Meera Das,21,Other,meera.das28@example.com,+91 7379718408,Kozhikode,13152.3,21/05/2023
+CUST0029,,31,Other,neha.iyer29@example.com,+91 8622410372,Mumbai,13502.03,29/07/2023
+CUST0030,Gopika Kumar,62,Female,gopika.kumar30@example.com,+91 7391120552,KOZHIKODE,7579.14,2023-12-05
+CUST0031,Kavya Sharma,30,Female,,+91 7926291952,Kottayam,11013.31,2025-08-04
+CUST0032,Ananya Patel,52,Male,ananya.patel32@example.com,+91 8348582943,Kochi,15212.2,22/04/2023
+CUST0033,meera PILLAI,37,Male,meera.pillai33@example.com,+91 9263578161,KOZHIKODE,10369.28,24/09/2024
+CUST0034,Rahul Rao,37,Other,rahul.rao34@example.com,(74038) 08030,Hyderabad,12078.46,08-27-2024
+CUST0035,Rohan Sharma,55,Female,rohan.sharma35@example.com,+91 6313952063,Cochin,15393.67,2025-12-29
+CUST0036,Sanjay Nair,75,Male,sanjay.nair36@example.com,+91 7656887881,BANGALORE,16089.82,19/03/2026
+CUST0037,Thomas Varma,,Female,thomas.varma37@example.com,+91 9431322121,kochi,2955.51,12-30-2025
+CUST0038,  DIYA REDDY  ,59,Female,diya.reddy38@example.com,+91 7801706372,Thiruvananthapuram,650.55,30/10/2024
+CUST0039,Pooja Gupta,34,Other,pooja.gupta39@example.com,+91 9221569823,Hyderabad,17420.11,21/11/2025
+CUST0040,Pooja Gupta,32,Female,pooja.gupta40@example.com,+91 7860169142,Thiruvananthapuram,999999,08-04-2023
+CUST0041,Gopika Joseph,30,,gopika.joseph41@example.com,+91 9610979095,Chennai,17585.65,2023-08-20
+CUST0042,Kiran Reddy,32,Female,kiran.reddy42@example.com,+91 6085687810, Trivandrum ,6888.74,11-08-2024
+CUST0043,Kavya Kumar,49,Other,kavya.kumar43@example.com,+91 8850544195,,7046.29,10/03/2025
+CUST0044,Ananya Thomas,56,Other,ananya.thomas44@example.com,+91 7476510433,Bengaluru,6621.08,02-29-2024
+CUST0045,Lakshmi Mishra,74,Other,lakshmi.mishra45@example.com,+91 8631735324,thrissur ,5991.98,2024-06-06
+CUST0046,Vikram Singh,28,Male,vikram.singh46@example.com,,thiruvananthapuram,14847.32,11-20-2024
+CUST0047,Meera Rao,45,Other,meera.rao47@example.com,+91 7952670934, KOCHI ,,25/10/2023
+CUST0048,Aarav Iyer,68,Female,aarav.iyer48@example.com,+91 7687109385, chennai ,1715.2,26/11/2025
+CUST0049,Priya Iyer,72,Female,priya.iyer49@example.com,+91 8162813680,ALAPPUZHA,17366.13,15/04/2025
+CUST0050,Gopika Joseph,63,Female,gopika.joseph50@example.com,+91 8586217236,Cochin,14010.24,10/09/2023
+CUST0051,Kiran Gupta,63,Male,kiran.gupta51@example.com,(87348) 59427,Hyderabad,2904.12,12-23-2025
+CUST0052,Meera Gupta,58,Male,meera.gupta52@example.com,+91 8128505360, Trivandrum ,15634.69,2025-03-22
+CUST0053,Gopika Joseph,58,Other,gopika.joseph53@example.com,+91 8615448548,Bengaluru,12104.38,
+CUST0054,Vikram Thomas,48,Male,vikram.thomas54@example.com,+91 8295812380,Thrissur,16983.88,2023-07-28
+CUST0055,Manu Mishra,49,Female,manu.mishra55@example.com,+91 8902358692,ALAPPUZHA,10204.8,01-02-2024
+CUST0056,Thomas Nair,63,Other,thomas.nair56@example.com,+91 6944221919,Alappuzha,10191.72,09-09-2023
+CUST0057,  ADITYA VARMA  ,43,Male,aditya.varma57@example.com,+91 7722876488,KOZHIKODE,11121.74,10-12-2025
+CUST0058,,71,Female,kiran @example.com,+91 6191553496,Calicut,17175.64,2025-10-05
+CUST0059,Nikhil Singh,19,Other,nikhil.singh59@example.com,+91 9010808871,Kochi,12507.37,2023-04-05
+CUST0060,Aditya Patel,28,Male,aditya.patel60@example.com,+91 7311572871,KOZHIKODE,12800.06,07/10/2025
+CUST0061,Akhil Das,40,Other,akhil.das61@example.com,+91 9962992413,Kozhikode,1878.16,not-a-date
+CUST0062,Lakshmi Gupta,63,Other,,+91 9016874724, KOCHI ,5234.46,2024-05-06
+CUST0063,Aisha Varma,59,Other,aisha.varma63@example.com,+91 6000308434,Thiruvananthapuram,14488.42,2025-06-12
+CUST0064,Priya Sharma,73,Other,priya.sharma64@example.com,+91 9345765467,Chennai,3413.2,01-04-2024
+CUST0065,Neha Mishra,72,Female,neha.mishra65@example.com,+91 7962205163,Kochi,15139.9,2023-06-09
+CUST0066,Diya Menon,175,Other,diya.menon66@example.com,+91 7009465134,thiruvananthapuram,3858.35,09/04/2025
+CUST0067,Neha Reddy,39,Female,neha.reddy67@example.com,+91 6033539579,thrissur ,1221.3,06-27-2024
+CUST0068,Kavya Joseph,67,Other,kavya.joseph68@example.com,(87653) 47678, Trivandrum ,15213.89,2023-12-20
+CUST0069,Gopika Reddy,25,Female,gopika.reddy69@example.com,,BANGALORE,693.19,2025-06-09
+CUST0070,Neha Joseph,41,Other,neha.joseph70@example.com,+91 9966131208,Delhi,9925.38,09-07-2024
+CUST0071,Manu Nair,72,Other,manu.nair71@example.com,+91 8775239674,thrissur ,16124.72,2025-12-21
+CUST0072,Sanjay Patel,18,Female,sanjay.patel72@example.com,+91 9779915857,Thrissur,12876.79,2023-12-29
+CUST0073,Sanjay Varma,48,Male,sanjay.varma73@example.com,+91 6749324242,Kozhikode,11078.38,2023-11-13
+CUST0074,Sneha Joseph,,Male,sneha.joseph74@example.com,+91 8972020625,Mumbai,7971.66,02/08/2023
+CUST0075,Akhil Reddy,22,Other,akhil.reddy75@example.com,+91 7676360317,Kochi,N/A,09-07-2024
+CUST0076,  DIYA NAIR  ,63,Female,diya.nair76@example.com,+91 6519152769,Chennai,11531.81,2023-08-23
+CUST0077,Sneha Menon,27,Other,sneha.menon77@example.com,+91 9873572669,Cochin,4432.51,18/01/2025
+CUST0078,Aisha Rao,70,Female,aisha.rao78@example.com,+91 8760371713,Thiruvananthapuram,15803.03,15/01/2025
+CUST0079,Diya Nair,41,Other,diya.nair79@example.com,+91 6493108709,Alappuzha,6260.37,30/01/2025
+CUST0080,Aisha Joseph,19,Male,aisha.joseph80@example.com,+91 9529521107,kochi,2217.31,12/02/2025
+CUST0081,Kiran Mishra,50,Male,kiran.mishra81@example.com,+91 9908096222,Mumbai,6505.02,2024-02-24
+CUST0082,Ananya Sharma,33,,ananya.sharma82@example.com,+91 8382704605, chennai ,15407.07,24/12/2024
+CUST0083,Aisha Rao,40,Female,aisha.rao83@example.com,+91 8846867813,Thiruvananthapuram,16363.0,24/03/2025
+CUST0084,Neha Mishra,75,Other,neha.mishra84@example.com,+91 8561233835,Thrissur,10604.93,2024-04-18
+CUST0085,Thomas Singh,48,Other,thomas.singh85@example.com,(73088) 99789, KOCHI ,13204.94,09/02/2026
+CUST0086,Nikhil Varma,43,Other,nikhil.varma86@example.com,+91 6019293708,,16954.17,05-18-2023
+CUST0087,,65,Male,thomas.patel87@example.com,+91 7407120054,Chennai,7327.32,02-01-2023
+CUST0088,Sneha Iyer,44,Male,sneha.iyer88@example.com,12345, KOCHI ,2625.83,2024-12-25
+CUST0089,Meera Rao,unknown,Male,meera.rao89@example.com,+91 9431523492,thiruvananthapuram,17078.91,01-12-2025
+CUST0090,Sneha Das,70,Male,sneha.das90@example.com,+91 8206664377,Chennai,5591.7,05/06/2025
+CUST0091,Kavya Kumar,22,Other,kavya.kumar91@example.com,+91 9741287009,thiruvananthapuram,2604.9,2024-06-25
+CUST0092,Aditya Mishra,60,Female,aditya.mishra92@example.com,,Delhi,14847.96,2026-01-13
+CUST0093,Lakshmi Pillai,74,Male,,+91 6541826234,Kozhikode,7296.46,16/02/2023
+CUST0094,Aditya Singh,49,Male,aditya.singh94@example.com,+91 9039318212, Trivandrum ,,09-13-2024
+CUST0095,  ISHAAN PILLAI  ,31,Female,ishaan.pillai95@example.com,+91 7042507468,Delhi,617.82,2025-07-09
+CUST0096,Diya Gupta,46,Other,diya.gupta96@example.com,+91 9901548318, KOCHI ,2957.5,12-09-2024
+CUST0097,Sneha Kumar,56,Female,sneha.kumar97@example.com,+91 6922476351,Cochin,9541.29,28/01/2026
+CUST0098,Kiran Varma,34,Male,kiran.varma98@example.com,+91 9175216435,thrissur ,9345.19,10-25-2024
+CUST0099,Aditya Varma,69,Other,aditya.varma99@example.com,+91 8774080022,Calicut,14766.54,07/10/2023
+CUST0100,Ananya Iyer,42,Other,ananya.iyer100@example.com,+91 7460883189,Bengaluru,12021.56,02-07-2025
+CUST0101,Aditya Menon,64,Female,aditya.menon101@example.com,+91 8282107639, KOCHI ,15802.99,04-15-2024
+CUST0102,Rahul Singh,65,Male,rahul.singh102@example.com,(68848) 43861,Delhi,14803.95,08-31-2024
+CUST0103,Ananya Joseph,38,Male,ananya.joseph103@example.com,+91 6406959317,thiruvananthapuram,12411.82,20/07/2024
+CUST0104,Ishaan Nair,74,Male,ishaan.nair104@example.com,+91 6766417547,Pune,9576.29,06-09-2025
+CUST0105,Priya Iyer,68,Male,priya.iyer105@example.com,+91 7660014438,thrissur ,10310.95,11/05/2023
+CUST0106,Gopika Das,65,Male,gopika.das106@example.com,+91 6210025559,BANGALORE,6619.07,
+CUST0107,Meera Varma,51,Female,not-an-email,+91 6270038667,Pune,11689.37,10/10/2024
+CUST0108,Aarav Gupta,47,Female,aarav.gupta108@example.com,+91 9150471375, Trivandrum ,11682.03,19/02/2026
+CUST0109,Pooja Menon,44,Other,pooja.menon109@example.com,+91 8907167478,Calicut,9220.85,03/08/2024
+CUST0110,Aisha Reddy,24,Other,aisha.reddy110@example.com,+91 9434733989, KOCHI ,16348.03,01-30-2024
+CUST0111,Arjun Menon,,Female,arjun.menon111@example.com,+91 9090613531,Thiruvananthapuram,8960.96,11-16-2023
+CUST0112,Pooja Das,45,Male,pooja.das112@example.com,+91 6775526093,Alappuzha,15452.62,29/06/2023
+CUST0113,Arjun Gupta,23,Male,arjun.gupta113@example.com,+91 7729836737,Delhi,17517.7,04-30-2023
+CUST0114,  VIKRAM IYER  ,55,Female,vikram.iyer114@example.com,+91 9279136289, Trivandrum ,1410.02,2023-08-17
+CUST0115,Pooja Iyer,56,Other,pooja.iyer115@example.com,,Thiruvananthapuram,7897.39,29/06/2023
+CUST0116,,51,Male,arjun.gupta116@example.com,+91 9593509242,Cochin,17422.61,2024-03-21
+CUST0117,Diya Pillai,28,Female,diya.pillai117@example.com,+91 6037624234,Chennai,15283.15,09/01/2024
+CUST0118,Meera Thomas,30,Female,meera.thomas118@example.com,+91 7516608186,BANGALORE,15564.3,2024-02-19
+CUST0119,Ananya Sharma,58,Other,ananya.sharma119@example.com,(82785) 00447,Delhi,16527.17,07/03/2024
+CUST0120,Neha Menon,71,Other,neha.menon120@example.com,+91 8058686937, Trivandrum ,15229.55,2024-03-06
+CUST0121,Vikram Singh,0,Male,vikram.singh121@example.com,+91 8728811403,Chennai,994.45,06-19-2023
+CUST0122,Sneha Iyer,64,Male,sneha.iyer122@example.com,+91 8946605094,ALAPPUZHA,6084.26,2025-01-17
+CUST0123,Meera Thomas,26,,meera.thomas123@example.com,+91 9595986199,Bengaluru,9738.26,05/05/2024
+CUST0124,Sanjay Kumar,67,Other,,+91 6756127605,Kochi,13066.62,2025-12-10
+CUST0125,Neha Joseph,65,Other,neha.joseph125@example.com,+91 8836562927,Alappuzha,13928.76,2023-01-27
+CUST0126,Nikhil Mishra,49,Other,nikhil.mishra126@example.com,+91 8547955316,Kochi,11450.03,30/07/2023
+CUST0127,Sneha Das,28,Male,sneha.das127@example.com,+91 9107223466,thiruvananthapuram,15995.36,20/03/2026
+CUST0128,Nikhil Mishra,63,Other,nikhil.mishra128@example.com,+91 6430626035,Bengaluru,5479.53,10-05-2024
+CUST0129,Nikhil Joseph,37,Male,nikhil.joseph129@example.com,+91 7271359650,,7880.45,08-24-2025
+CUST0130,Arjun Gupta,46,Female,arjun.gupta130@example.com,+91 7953495543,Mumbai,545.77,2024-09-15
+CUST0131,Rohan Varma,29,Other,rohan.varma131@example.com,+91 9200104279,Kozhikode,8553.36,11-09-2023
+CUST0132,Manu Sharma,25,Female,manu.sharma132@example.com,+91 6248847331,Kottayam,9133.41,01/05/2025
+CUST0133,  ROHAN DAS  ,27,Female,rohan.das133@example.com,+91 7781485993,Delhi,9410.75,05-04-2024
+CUST0134,Vikram Singh,60,Male,vikram.singh134@example.com,+91 7318159020,Bengaluru,3257.91,03-22-2025
+CUST0135,Aarav Kumar,56,Other,aarav.kumar135@example.com,+91 6190840123,Mumbai,16548.68,2023-12-24
+CUST0136,Lakshmi Gupta,65,Male,lakshmi.gupta136@example.com,(95292) 07446,Thrissur,16331.78,03/08/2024
+CUST0137,Diya Pillai,40,Male,diya.pillai137@example.com,+91 7168269081,Bengaluru,15725.42,2024-08-01
+CUST0138,Neha Rao,67,Male,neha.rao138@example.com,,Delhi,2838.2,26/07/2023
+CUST0139,Ishaan Mishra,32,Female,ishaan.mishra139@example.com,+91 6516798370, KOCHI ,450.91,29/08/2024
+CUST0140,Aisha Mishra,55,Female,aisha.mishra140@example.com,+91 7131399328,thrissur ,2485.52,23/04/2024
+CUST0141,Thomas Menon,18,Female,thomas.menon141@example.com,+91 6960818547,Delhi,,25/01/2025
+CUST0142,Kiran Menon,51,Male,kiran.menon142@example.com,+91 9855845395,MUMBAI,15408.42,03-04-2023
+CUST0143,Kiran Kumar,47,Other,kiran.kumar143@example.com,+91 9613872054,Thrissur,2037.16,05-02-2025
+CUST0144,gopika SHARMA,60,Male,gopika.sharma144@example.com,+91 8245031063,Thiruvananthapuram,12897.18,01-27-2026
+CUST0145,,30,Female,nikhil.varma145@example.com,+91 8538623600,Kozhikode,9941.96,03-28-2023
+CUST0146,Sneha Pillai,41,Other,sneha.pillai146@example.com,+91 7478268230,MUMBAI,13364.57,10-07-2025
+CUST0147,Rohan Iyer,29,Female,rohan.iyer147@example.com,+91 8423888435,Delhi,14147.37,08-08-2025
+CUST0148,Aarav Das,,Other,aarav.das148@example.com,+91 6053426206,KOZHIKODE,8480.74,01-04-2025
+CUST0149,Arjun Menon,47,Other,arjun.menon149@example.com,+91 8327425646,Mumbai,8405.27,24/10/2025
+CUST0150,Rohan Menon,75,Female,rohan.menon150@example.com,+91 9668213171,kochi,125000,13/01/2025
+CUST0151,Ishaan Mishra,25,Male,ishaan.mishra151@example.com,+91 9293569148,kochi,10571.02,12/07/2023
+CUST0152,  THOMAS PATEL  ,41,Male,thomas.patel152@example.com,+91 9082758374,Pune,10007.59,07-09-2023
+CUST0153,Akhil Pillai,47,Male,akhil.pillai153@example.com,(77426) 69032,Alappuzha,4511.61,2026-01-26
+CUST0154,Aditya Mishra,46,Other,aditya.mishra154@example.com,+91 8655372618,Thiruvananthapuram,5444.48,11-20-2025
+CUST0155,Vikram Mishra,54,Female,,+91 9405547681, KOCHI ,5907.26,2025-05-26
+CUST0156,Sanjay Varma,35,Male,sanjay.varma156@example.com,+91 7332775427,ALAPPUZHA,7938.12,2024-07-15
+CUST0157,Thomas Nair,29,Other,thomas.nair157@example.com,+91 7153068371,KOZHIKODE,3159.51,17/11/2025
+CUST0158,Diya Reddy,19,Other,diya.reddy158@example.com,+91 7112212549,BANGALORE,1259.16,01-27-2024
+CUST0159,Ishaan Menon,29,Male,ishaan.menon159@example.com,+91 7722199890,Kozhikode,17520.21,
+CUST0160,Aisha Pillai,40,Other,aisha.pillai160@example.com,+91 8720422759,Mumbai,1266.28,10-08-2025
+CUST0161,Gopika Thomas,18,Other,gopika.thomas161@example.com,,Delhi,13244.55,01/07/2024
+CUST0162,Sneha Joseph,72,Other,sneha.joseph162@example.com,+91 7304322407,MUMBAI,2410.6,02-25-2026
+CUST0163,Rohan Varma,72,Male,rohan.varma163@example.com,+91 7102280120, KOCHI ,8805.98,11-24-2023
+CUST0164,Kavya Iyer,51,,kavya.iyer164@example.com,+91 7492814023,Bengaluru,2712.16,2025-07-15
+CUST0165,Aditya Reddy,56,Other,aditya.reddy165@example.com,+91 9819592901,Mumbai,8940.2,2025-01-17
+CUST0166,Vikram Mishra,54,Female,vikram.mishra166@example.com,+91 7772793358,Bengaluru,4262.15,02-25-2026
+CUST0167,Kiran Kumar,60,Female,kiran.kumar167@example.com,abcdefghij,Kozhikode,3556.92,2024-10-01
+CUST0168,Aarav Reddy,59,Male,aarav.reddy168@example.com,+91 7318843263,MUMBAI,11000.8,2023-12-26
+CUST0169,Aarav Reddy,45,Other,aarav.reddy169@example.com,+91 9741491281,MUMBAI,455.84,02-18-2024
+CUST0170,Sanjay Thomas,20,Female,sanjay.thomas170@example.com,(63552) 32447,thrissur ,4948.16,2024-12-18
+CUST0171,  LAKSHMI VARMA  ,68,Male,lakshmi.varma171@example.com,+91 9961292187,Delhi,3457.16,2023-08-18
+CUST0172,Aarav Singh,58,Male,aarav.singh172@example.com,+91 6539763734,,1827.13,02-17-2024
+CUST0173,Aditya Nair,23,Female,aditya.nair173@example.com,+91 7833478022,Kochi,15353.61,2025-12-12
+CUST0174,,53,Male,arjun.reddy174@example.com,+91 7974936607,Chennai,14997.59,30/08/2025
+CUST0175,Aditya Patel,71,Other,aditya.patel175@example.com,+91 7058406772,BANGALORE,8460.64,06-27-2025
+CUST0176,Neha Mishra,35,Other,neha.mishra176@example.com,+91 7728764231,Thiruvananthapuram,11102.51,2024-10-25
+CUST0177,Sanjay Rao,51,Female,sanjay.rao177@example.com,+91 9162253828,Kottayam,1718.71,02-23-2025
+CUST0178,Ananya Rao,39,Female,ananya.rao178@example.com,+91 8444933055, chennai ,17930.89,09/04/2026
+CUST0179,Aisha Kumar,50,Female,aisha.kumar179@example.com,+91 9981990127,Delhi,12704.07,17/02/2024
+CUST0180,Akhil Gupta,37,Female,akhil.gupta180@example.com,+91 6583344941,KOZHIKODE,5338.98,02-02-2023
+CUST0181,Manu Patel,50,Female,manu.patel181@example.com,+91 9548060474,Thiruvananthapuram,4857.9,20/07/2023
+CUST0182,Rohan Kumar,39,Female,rohan.kumar182@example.com,+91 6143482158, KOCHI ,6686.26,2025-10-02
+CUST0183,Manu Menon,24,Male,manu.menon183@example.com,+91 8622140193,Kozhikode,2772.65,not-a-date
+CUST0184,Arjun Mishra,41,Other,arjun.mishra184@example.com,,BANGALORE,6043.15,21/04/2023
+CUST0185,Lakshmi Patel,,Male,lakshmi.patel185@example.com,+91 8722326588,kochi,16979.2,2023-12-29
+CUST0186,Vikram Kumar,24,Other,,+91 6567707467,Alappuzha,16809.92,2025-06-23
+CUST0187,Kiran Kumar,53,Female,kiran.kumar187@example.com,(67256) 95871,MUMBAI,1211.76,2023-04-23
+CUST0188,Gopika Varma,43,Female,gopika.varma188@example.com,+91 9107697648,Kozhikode,,14/08/2024
+CUST0189,Meera Reddy,38,Male,meera.reddy189@example.com,+91 6378655183,Pune,5831.93,12-09-2025
+CUST0190,  ANANYA DAS  ,59,Female,ananya.das190@example.com,+91 6094822088,Cochin,2197.3,12/01/2025
+CUST0191,Aisha Patel,66,Male,aisha.patel191@example.com,+91 9907873830,Kozhikode,10885.7,03-02-2024
+CUST0192,Kavya Thomas,28,Other,kavya.thomas192@example.com,+91 7598781489,MUMBAI,12935.17,11-27-2024
+CUST0193,Aisha Patel,55,Female,aisha.patel193@example.com,+91 6861200129,Delhi,14433.38,16/04/2024
+CUST0194,Lakshmi Rao,71,Female,lakshmi.rao194@example.com,+91 6153588190,Bengaluru,6628.05,02/05/2023
+CUST0195,Manu Rao,50,Female,manu.rao195@example.com,+91 7649842540,KOZHIKODE,9564.73,2025-01-22
+CUST0196,Akhil Iyer,57,Other,akhil.iyer196@example.com,+91 9296222909, KOCHI ,11436.88,16/10/2024
+CUST0197,Gopika Nair,68,Male,gopika.nair197@example.com,+91 6481849483, Trivandrum ,17704.86,10/01/2024
+CUST0198,Priya Joseph,23,Female,priya.joseph198@example.com,+91 7622364339,Kozhikode,9560.67,2023-01-11
+CUST0199,Kiran Nair,72,Male,kiran @example.com,+91 9636370749,thiruvananthapuram,15857.78,2023-02-02
+CUST0200,Pooja Patel,36,Male,pooja.patel200@example.com,+91 8321773558,Cochin,1093.8,09-05-2024
+CUST0201,Sneha Singh,70,Male,sneha.singh201@example.com,+91 6910257300,Kozhikode,10378.77,03-19-2025
+CUST0202,Ananya Rao,36,Other,ananya.rao202@example.com,+91 6207819798,Delhi,14045.15,17/04/2024
+CUST0203,,70,Male,kiran.iyer203@example.com,+91 9596384812,MUMBAI,16607.93,11-07-2025
+CUST0204,Neha Singh,40,Other,neha.singh204@example.com,(98797) 38566,Alappuzha,16586.43,2026-03-07
+CUST0205,Neha Patel,40,,neha.patel205@example.com,+91 8070428552,Cochin,10165.47,2023-11-29
+CUST0206,Nikhil Patel,41,Other,nikhil.patel206@example.com,+91 6965073214, chennai ,15148.45,11/04/2025
+CUST0207,Ananya Joseph,72,Female,ananya.joseph207@example.com,,Kochi,11246.57,23/12/2023
+CUST0208,Sanjay Sharma,-4,Other,sanjay.sharma208@example.com,+91 9325535723,Thrissur,2256.29,31/10/2023
+CUST0209,  GOPIKA VARMA  ,46,Other,gopika.varma209@example.com,+91 8908470521,thrissur ,14482.03,01-26-2026
+CUST0210,Meera Pillai,30,Male,meera.pillai210@example.com,+91 8184490542,thrissur ,9520.99,13/10/2023
+CUST0211,Pooja Mishra,32,Other,pooja.mishra211@example.com,+91 9703559748, KOCHI ,13699.95,07-23-2023
+CUST0212,Arjun Gupta,24,Male,arjun.gupta212@example.com,+91 6508931576,Kottayam,16652.72,
+CUST0213,Kiran Rao,54,Female,kiran.rao213@example.com,+91 7825963730, KOCHI ,2372.22,2024-05-16
+CUST0214,Rohan Kumar,56,Female,rohan.kumar214@example.com,+91 9399535642,Hyderabad,9189.59,2024-10-11
+CUST0215,Sanjay Menon,74,Other,sanjay.menon215@example.com,+91 7077791072,,17578.05,12-30-2024
+CUST0216,Pooja Iyer,74,Female,pooja.iyer216@example.com,+91 6092158889,Calicut,14772.07,2025-10-05
+CUST0217,Aditya Iyer,32,Female,,+91 8069120283,ALAPPUZHA,3818.98,29/10/2025
+CUST0218,Rohan Gupta,25,Other,rohan.gupta218@example.com,+91 6697240550,MUMBAI,15143.28,2024-03-29
+CUST0219,Rohan Das,58,Male,rohan.das219@example.com,+91 7083482193, KOCHI ,11920.74,11/07/2025
+CUST0220,Aditya Joseph,20,Male,aditya.joseph220@example.com,+91 7426516831,Bengaluru,1168.74,2025-07-01
+CUST0221,Lakshmi Kumar,19,Male,lakshmi.kumar221@example.com,(64721) 63600,Delhi,16587.16,18/03/2023
+CUST0222,Aisha Iyer,,Male,aisha.iyer222@example.com,+91 9304381125,Thrissur,14986.83,2026-03-10
+CUST0223,Priya Sharma,25,Female,priya.sharma223@example.com,+91 6149298782,Delhi,12177.59,10/01/2024
+CUST0224,Thomas Kumar,56,Female,thomas.kumar224@example.com,+91 9962681075,KOZHIKODE,8202.42,02-02-2026
+CUST0225,Thomas Mishra,74,Other,thomas.mishra225@example.com,+91 6831104600,BANGALORE,N/A,06-24-2024
+CUST0226,Kiran Menon,25,Other,kiran.menon226@example.com,+91 8574928723,BANGALORE,8214.06,23/01/2023
+CUST0227,Diya Thomas,40,Male,diya.thomas227@example.com,+91 8612254767,Mumbai,2859.33,13/01/2024
+CUST0228,  NEHA DAS  ,26,Male,neha.das228@example.com,+91 9444171532, Trivandrum ,3522.44,2023-10-15
+CUST0229,Kiran Mishra,33,Male,kiran.mishra229@example.com,+91 8944554040,Thiruvananthapuram,9517.82,2023-02-06
+CUST0230,Arjun Rao,65,Other,arjun.rao230@example.com,,Kochi,13566.08,2023-02-06
+CUST0231,Thomas Patel,42,Female,thomas.patel231@example.com,+91 8307364161,Pune,6391.48,28/05/2023
+CUST0232,,68,Other,diya.joseph232@example.com,+91 6252016143,Thrissur,10876.87,03/12/2024
+CUST0233,Aarav Pillai,23,Male,aarav.pillai233@example.com,+91 8672272466, chennai ,4914.69,01-13-2026
+CUST0234,Rohan Iyer,33,Female,rohan.iyer234@example.com,+91 9945575987,Kottayam,8051.55,27/08/2025
+CUST0235,Pooja Iyer,29,Male,pooja.iyer235@example.com,+91 7900310085,thiruvananthapuram,,11-02-2024
+CUST0236,Kiran Nair,46,Female,kiran.nair236@example.com,+91 7895583727,MUMBAI,15156.5,2023-05-14
+CUST0237,Nikhil Pillai,64,Male,nikhil.pillai237@example.com,+91 8616650115,Kozhikode,12344.88,2025-12-18
+CUST0238,Vikram Rao,23,Female,vikram.rao238@example.com,(67052) 38179,BANGALORE,6591.09,2025-09-27
+CUST0239,Meera Iyer,47,Male,meera.iyer239@example.com,+91 8055704240,Delhi,6699.42,03-10-2026
+CUST0240,Ananya Iyer,60,Male,ananya.iyer240@example.com,+91 9575158212,thiruvananthapuram,7992.41,2024-08-16
+CUST0241,Lakshmi Kumar,25,Female,lakshmi.kumar241@example.com,+91 6169369282,Thiruvananthapuram,11987.67,07-24-2024
+CUST0242,Sanjay Joseph,45,Other,sanjay.joseph242@example.com,+91 9685399604,Kochi,15331.39,2024-06-08
+CUST0243,Meera Thomas,67,Male,meera.thomas243@example.com,+91 6362575234,Kottayam,4427.6,2026-02-23
+CUST0244,Lakshmi Reddy,36,Male,lakshmi.reddy244@example.com,+91 8497959023,MUMBAI,2059.31,02-10-2026
+CUST0245,Ananya Patel,53,Other,ananya.patel245@example.com,+91 8179349595,Delhi,17210.26,2023-06-07
+CUST0246,Aisha Das,35,,aisha.das246@example.com,+91 7445052492,Pune,3297.41,09-25-2024
+CUST0247,  KIRAN PILLAI  ,56,Female,kiran.pillai247@example.com,+91 6004189197,Hyderabad,2964.04,2024-07-26
+CUST0248,Vikram Pillai,40,Male,,+91 7921392877,Chennai,6564.16,06-21-2024
+CUST0249,Aditya Rao,37,Other,aditya.rao249@example.com,+91 8955592074,Pune,7291.64,03-18-2025
+CUST0250,Aisha Singh,21,Female,aisha.singh250@example.com,+91-98AB123456,KOZHIKODE,16977.36,13/11/2025
+CUST0251,Ananya Reddy,31,Male,ananya.reddy251@example.com,+91 8494115111,Calicut,6283.21,02-06-2026
+CUST0252,Lakshmi Kumar,41,Female,lakshmi.kumar252@example.com,+91 7778331257,BANGALORE,7875.04,2025-05-17
+CUST0253,Kiran Kumar,36,Other,kiran.kumar253@example.com,,Bengaluru,17101.53,2025-04-14
+CUST0254,Kavya Kumar,56,Male,kavya.kumar254@example.com,+91 7900431459,Thrissur,15358.15,2023-03-01
+CUST0255,Gopika Joseph,54,Male,gopika.joseph255@example.com,(66432) 04245,thiruvananthapuram,7477.76,2024-10-08
+CUST0256,Ananya Varma,68,Other,ananya.varma256@example.com,+91 8274015647,KOZHIKODE,4740.17,01-10-2023
+CUST0257,Kiran Patel,49,Female,kiran.patel257@example.com,+91 9249080948, chennai ,13412.2,23/11/2025
+CUST0258,Neha Gupta,23,Other,neha.gupta258@example.com,+91 9526878028,,7099.05,10/04/2025
+CUST0259,Kavya Mishra,,Male,kavya.mishra259@example.com,+91 7235360170, chennai ,15293.56,2026-04-13
+CUST0260,Ishaan Sharma,73,Other,ishaan.sharma260@example.com,+91 8419227983, Trivandrum ,3839.0,01-17-2026
+CUST0261,,73,Other,priya.thomas261@example.com,+91 7268033244,Chennai,11013.22,2024-09-21
+CUST0262,Aisha Pillai,66,Female,aisha.pillai262@example.com,+91 8613503577, KOCHI ,16579.8,01-18-2025
+CUST0263,Neha Patel,58,Male,neha.patel263@example.com,+91 8703919354,Calicut,13932.02,11-04-2023
+CUST0264,Aisha Iyer,33,Male,aisha.iyer264@example.com,+91 9319038273, chennai ,12516.42,01/11/2024
+CUST0265,Priya Patel,26,Male,priya.patel265@example.com,+91 7632598757,thrissur ,9739.75,
+CUST0266,  SNEHA SHARMA  ,65,Female,sneha.sharma266@example.com,+91 9200782025,Kozhikode,12983.05,2024-06-25
+CUST0267,Neha Patel,43,Female,neha.patel267@example.com,+91 6164865390,Chennai,3188.75,10-02-2025
+CUST0268,Ananya Sharma,28,Female,ananya.sharma268@example.com,+91 8213597959,ALAPPUZHA,10456.85,11/01/2023
+CUST0269,Neha Kumar,28,Male,neha.kumar269@example.com,+91 7049338840,Cochin,12927.05,2023-01-10
+CUST0270,Sneha Menon,48,Male,sneha.menon270@example.com,+91 9517691974,Kozhikode,10554.08,08-20-2024
+CUST0271,Diya Gupta,31,Female,diya.gupta271@example.com,+91 9330742799,Kottayam,9299.2,12-18-2023
+CUST0272,Ananya Singh,54,Male,ananya.singh272@example.com,(80563) 08713,Bengaluru,1810.59,09/03/2024
+CUST0273,Aarav Nair,74,Other,aarav.nair273@example.com,+91 7505331071,Hyderabad,4934.79,2025-06-11
+CUST0274,Neha Patel,58,Female,neha.patel274@example.com,+91 8705644265,kochi,12677.61,19/01/2024
+CUST0275,Arjun Joseph,50,Other,arjun.joseph275@example.com,+91 7689144346,Mumbai,1828.25,16/05/2024
+CUST0276,Sneha Reddy,35,Female,sneha.reddy276@example.com,,Hyderabad,10721.9,12-31-2025
+CUST0277,Aisha Rao,unknown,Female,aisha.rao277@example.com,+91 9524955251,KOZHIKODE,5471.37,14/03/2025
+CUST0278,Pooja Iyer,23,Other,pooja.iyer278@example.com,+91 9454418998,thiruvananthapuram,1050.61,12-31-2023
+CUST0279,Neha Patel,27,Male,,+91 6911523625,Delhi,10715.0,08/08/2023
+CUST0280,Vikram Nair,36,Female,vikram.nair280@example.com,+91 7597237089,Calicut,999999,2025-12-10
+CUST0281,Kiran Kumar,67,Other,kiran.kumar281@example.com,+91 8073369264,KOZHIKODE,10416.71,08-06-2024
+CUST0282,Thomas Varma,23,Male,thomas.varma282@example.com,+91 8609239842,Calicut,,17/12/2023
+CUST0283,Nikhil Joseph,61,Other,nikhil.joseph283@example.com,+91 8487778837, chennai ,5004.73,07/02/2026
+CUST0284,Ananya Thomas,29,Other,ananya.thomas284@example.com,+91 8531976260,Kottayam,15127.88,11-11-2024
+CUST0285,  MEERA GUPTA  ,51,Male,meera.gupta285@example.com,+91 6858767129,Thiruvananthapuram,10681.26,08-01-2024
+CUST0286,Vikram Reddy,48,Other,vikram.reddy286@example.com,+91 6676593821,Chennai,7497.12,2025-03-14
+CUST0287,Meera Rao,20,,meera.rao287@example.com,+91 9909178292,kochi,7649.6,2023-06-04
+CUST0288,Manu Patel,46,Female,manu.patel288@example.com,+91 6498579979,Delhi,8005.08,2025-04-15
+CUST0289,Sneha Gupta,18,Male,sneha.gupta289@example.com,(75496) 16479,thrissur ,3121.61,11-12-2025
+CUST0290,,27,Male,sanjay.singh290@example.com,+91 8229245600,Kottayam,2406.97,11-03-2023
+CUST0291,Thomas Mishra,74,Male,thomas.mishra291@example.com,+91 6262663527,Pune,12544.82,12/10/2025
+CUST0292,Arjun Iyer,53,Other,arjun.iyer292@example.com,+91 7035394956,Delhi,5420.8,15/12/2025
+CUST0293,Ishaan Pillai,68,Female,ishaan.pillai293@example.com,+91 8238614135,kochi,10171.41,05-30-2024
+CUST0294,Priya Iyer,67,Female,priya.iyer294@example.com,+91 6878938808,Alappuzha,5260.33,11-03-2024
+CUST0295,Ananya Das,27,Other,ananya.das295@example.com,+91 9521243664,KOZHIKODE,12948.41,28/10/2025
+CUST0296,Ishaan Thomas,,Male,ishaan.thomas296@example.com,+91 8518726335,ALAPPUZHA,9606.18,2025-06-28
+CUST0297,Gopika Singh,45,Male,gopika.singh297@example.com,+91 6468812855,KOZHIKODE,9579.24,2023-09-26
+CUST0298,Nikhil Menon,75,Other,nikhil.menon298@example.com,+91 7469420244,thiruvananthapuram,4432.81,03-25-2025
+CUST0299,Kiran Das,39,Male,kiran.das299@example.com,, Trivandrum ,7915.97,2025-01-22
+CUST0300,Ananya Varma,27,Female,ananya.varma300@example.com,+91 8284100864,Bengaluru,3752.14,2025-02-03
+CUST0301,Sanjay Pillai,22,Male,sanjay.pillai301@example.com,+91 7108945754,,14483.6,2025-12-01
+CUST0302,Priya Das,67,Other,priya.das302@example.com,+91 7402830404,Bengaluru,12179.39,31/02/2024
+CUST0303,Meera Menon,53,Other,meera.menon303@example.com,+91 9278246006, Trivandrum ,5983.51,2024-01-09
+CUST0304,  ANANYA DAS  ,67,Male,ananya.das304@example.com,+91 8768457858, chennai ,15918.19,05-15-2023
+CUST0305,Ananya Iyer,50,Female,ananya.iyer305@example.com,+91 7925672490,Delhi,386.44,2024-03-30
+CUST0306,Nikhil Thomas,70,Female,nikhil.thomas306@example.com,(68910) 48885,Calicut,12417.18,2026-03-05
+CUST0307,Aisha Pillai,32,Other,aisha.pillai307@example.com,+91 7189074188,Alappuzha,7796.37,2024-10-11
+CUST0308,Nikhil Mishra,25,Other,nikhil.mishra308@example.com,+91 7084306448,Bengaluru,10057.94,07/03/2025
+CUST0309,Aditya Iyer,43,Male,aditya.iyer309@example.com,+91 8750560321,Hyderabad,10861.4,17/04/2025
+CUST0310,Gopika Gupta,30,Other,,+91 8926383984,Alappuzha,4150.05,17/01/2025
+CUST0311,Aarav Rao,33,Female,aarav.rao311@example.com,+91 7453940748, chennai ,4116.52,2025-07-02
+CUST0312,Kavya Joseph,34,Other,kavya.joseph312@example.com,+91 8432777283,thiruvananthapuram,3381.61,14/01/2024
+CUST0313,Rahul Rao,48,Male,rahul.rao313@example.com,+91 6875727063,thiruvananthapuram,13360.12,04/06/2025
+CUST0314,Akhil Patel,0,Female,akhil.patel314@example.com,+91 6982572757,Calicut,13361.23,2023-10-28
+CUST0315,Diya Patel,36,Other,diya.patel315@example.com,+91 9402498951, KOCHI ,2550.35,2023-12-30
+CUST0316,Kiran Gupta,36,Male,kiran.gupta316@example.com,+91 8192948145,Cochin,6271.06,14/06/2024
+CUST0317,Manu Nair,50,Female,manu.nair317@example.com,+91 8225559436,MUMBAI,6834.1,2024-10-01
+CUST0318,Aarav Singh,46,Male,aarav.singh318@example.com,+91 8615581075,MUMBAI,12265.16,
+CUST0319,,68,Other,arjun.nair319@example.com,+91 6865595129,Chennai,9761.82,13/12/2023
+CUST0320,Manu Singh,73,Other,manu.singh320@example.com,+91 9234690410,kochi,2080.33,05-18-2023
+CUST0321,Gopika Pillai,73,Other,gopika.pillai321@example.com,+91 8184077232, KOCHI ,11940.5,2025-01-24
+CUST0322,Arjun Reddy,55,Other,arjun.reddy322@example.com,, Trivandrum ,10045.8,2023-02-08
+CUST0323,  GOPIKA MENON  ,43,Other,gopika.menon323@example.com,(67958) 13601,Thrissur,13951.25,2024-02-20
+CUST0324,Rahul Pillai,60,Other,rahul.pillai324@example.com,+91 6012734712,Thrissur,8412.98,11-11-2024
+CUST0325,Kavya Nair,28,Other,kavya.nair325@example.com,+91 9551808121,thiruvananthapuram,12664.58,02/11/2023
+CUST0326,Rahul Mishra,44,Female,rahul.mishra326@example.com,+91 8107743501, Trivandrum ,2807.69,09-23-2024
+CUST0327,Pooja Reddy,18,Other,pooja.reddy327@example.com,+91 8821399960, chennai ,17991.02,07-26-2023
+CUST0328,Gopika Singh,52,,gopika.singh328@example.com,+91 9357675491,Hyderabad,2139.65,30/10/2023
+CUST0329,Manu Sharma,58,Other,manu.sharma329@example.com,+91 8537446885,KOZHIKODE,,19/02/2025
+CUST0330,Vikram Pillai,65,Male,vikram.pillai330@example.com,+91 7125417574, chennai ,430.12,2024-01-31
+CUST0331,Akhil Das,23,Female,akhil.das331@example.com,+91 6380254203,Chennai,3157.35,05-05-2024
+CUST0332,Aditya Rao,41,Other,aditya.rao332@example.com,+91 7181029518,ALAPPUZHA,8628.67,11-26-2023
+CUST0333,Gopika Iyer,,Other,gopika @example.com,+91 9817466975, Trivandrum ,17836.72,02-12-2025
+CUST0334,Thomas Pillai,29,Female,thomas.pillai334@example.com,+91 9589721074,Chennai,8608.26,2025-06-14
+CUST0335,Kiran Gupta,55,Other,kiran.gupta335@example.com,+91 8965163151, KOCHI ,17581.07,29/09/2025
+CUST0336,Kavya Varma,36,Male,kavya.varma336@example.com,+91 8480535185, Trivandrum ,16738.59,2025-10-07
+CUST0337,Diya Singh,57,Male,diya.singh337@example.com,+91 7325068040,Calicut,2603.21,29/04/2024
+CUST0338,Akhil Menon,34,Female,akhil.menon338@example.com,+91 8511046861,KOZHIKODE,3510.42,25/10/2023
+CUST0339,Rahul Singh,67,Female,rahul.singh339@example.com,+91 9230451800,Chennai,15529.16,01-13-2026
+CUST0340,Diya Nair,51,Male,diya.nair340@example.com,(91526) 45034,kochi,7972.09,2023-02-28
+CUST0341,Meera Joseph,66,Male,,+91 6496045201,thiruvananthapuram,15220.04,01-21-2025
+CUST0342,  KIRAN MENON  ,70,Male,kiran.menon342@example.com,+91 7947060268,Delhi,12386.54,03-23-2023
+CUST0343,Meera Patel,50,Male,meera.patel343@example.com,+91 8057520939,BANGALORE,4391.67,2025-02-27
+CUST0344,Gopika Sharma,73,Other,gopika.sharma344@example.com,+91 9873200346,,10530.97,19/07/2025
+CUST0345,Thomas Singh,48,Male,thomas.singh345@example.com,,Bengaluru,8397.09,26/11/2025
+CUST0346,Kavya Varma,32,Male,kavya.varma346@example.com,+91 6232062337,Thrissur,7644.62,12/06/2025
+CUST0347,Ananya Joseph,38,Male,ananya.joseph347@example.com,+91 7451859268,Chennai,11091.58,02-13-2026
+CUST0348,,53,Male,sanjay.sharma348@example.com,+91 9047947085,ALAPPUZHA,15258.45,2023-01-17
+CUST0349,Meera Varma,67,Other,meera.varma349@example.com,+91 6919473298,ALAPPUZHA,3116.84,2024-06-25
+CUST0350,Sneha Kumar,69,Other,sneha.kumar350@example.com,+91 8604189228,ALAPPUZHA,15229.98,20/04/2023
+CUST0351,Thomas Rao,20,Female,thomas.rao351@example.com,+91 9044098465,Mumbai,5365.9,07-19-2023
+CUST0352,Thomas Pillai,63,Female,thomas.pillai352@example.com,+91 8155750167,Chennai,5769.71,01-16-2024
+CUST0353,Akhil Iyer,41,Male,akhil.iyer353@example.com,+91 6047599669,Delhi,13936.16,2023-06-03
+CUST0354,Ananya Rao,61,Female,ananya.rao354@example.com,+91 8400793644,Thrissur,10515.5,2025-05-10
+CUST0355,Sneha Patel,66,Other,sneha.patel355@example.com,+91 8819296442,BANGALORE,13926.81,04/09/2024
+CUST0356,Aditya Das,57,Male,aditya.das356@example.com,+91 7211221534, KOCHI ,1443.36,06/01/2023
+CUST0357,Ananya Varma,55,Male,ananya.varma357@example.com,(62166) 26581,Cochin,4324.49,2025-04-08
+CUST0358,Diya Rao,47,Other,diya.rao358@example.com,+91 7238748328,KOZHIKODE,8855.73,11/03/2023
+CUST0359,Rahul Menon,27,Male,rahul.menon359@example.com,+91 7852785464,Thiruvananthapuram,16632.97,26/12/2025
+CUST0360,Pooja Mishra,63,Other,pooja.mishra360@example.com,+91 6912025208,Chennai,15018.45,08/03/2023
+CUST0361,  ADITYA KUMAR  ,71,Female,aditya.kumar361@example.com,+91 9590168275,Pune,12969.95,04-11-2023
+CUST0362,Meera Mishra,21,Male,meera.mishra362@example.com,+91 9331824304,Calicut,16351.35,11-29-2025
+CUST0363,Rahul Varma,54,Female,rahul.varma363@example.com,+91 8018663025,Calicut,2168.0,04-12-2025
+CUST0364,Aditya Singh,73,Male,aditya.singh364@example.com,+91 7164740075, chennai ,15018.49,2023-06-15
+CUST0365,Thomas Pillai,65,Female,thomas.pillai365@example.com,+91 8013173829,thiruvananthapuram,13804.52,22/08/2024
+CUST0366,Ananya Iyer,29,Other,ananya.iyer366@example.com,+91 8874077634,Thrissur,16324.66,11/04/2023
+CUST0367,Diya Joseph,42,Other,diya.joseph367@example.com,+91 8367340600,kochi,9770.52,02-28-2024
+CUST0368,Pooja Nair,38,Male,pooja.nair368@example.com,,MUMBAI,5271.86,16/11/2024
+CUST0369,Ananya Das,38,,ananya.das369@example.com,+91 6660412800,thrissur ,1283.95,2023-01-09
+CUST0370,Ananya Das,,Other,ananya.das370@example.com,+91 9184100939,Cochin,6159.51,03/07/2025
+CUST0371,Aisha Gupta,31,Male,aisha.gupta371@example.com,+91 6218363880,kochi,4150.21,
+CUST0372,Gopika Sharma,27,Other,,+91 6997525845,BANGALORE,13886.97,02-10-2024
+CUST0373,Ananya Singh,50,Female,ananya.singh373@example.com,+91 9104321153,KOZHIKODE,15880.43,09-29-2023
+CUST0374,Aisha Varma,62,Female,aisha.varma374@example.com,(84847) 35562,Bengaluru,6669.88,02/01/2025
+CUST0375,Thomas Joseph,19,Female,thomas.joseph375@example.com,+91 7867319589,Hyderabad,16036.12,2023-06-09
+CUST0376,Rahul Menon,23,Other,rahul.menon376@example.com,+91 8165426886,Alappuzha,,01-06-2023
+CUST0377,,28,Female,kavya.das377@example.com,+91 9489992619, Trivandrum ,6960.25,08-11-2024
+CUST0378,Aditya Joseph,52,Male,aditya.joseph378@example.com,+91 7618881376,thrissur ,14912.05,03/03/2023
+CUST0379,Akhil Reddy,19,Female,akhil.reddy379@example.com,+91 7448976907,KOZHIKODE,11700.91,04/06/2025
+CUST0380,  ISHAAN SINGH  ,41,Male,ishaan.singh380@example.com,+91 7951173296,kochi,11012.41,2026-01-07
+CUST0381,Aarav Das,33,Other,aarav.das381@example.com,+91 9059757067,Mumbai,12151.66,12-20-2025
+CUST0382,Kiran Iyer,18,Male,kiran.iyer382@example.com,+91 6324986789, KOCHI ,10680.9,12-30-2023
+CUST0383,Akhil Iyer,51,Male,akhil.iyer383@example.com,+91 8807079471,Kozhikode,14006.17,11/04/2026
+CUST0384,Aarav Nair,66,Female,aarav.nair384@example.com,+91 6994849829,Kochi,2919.66,2023-08-08
+CUST0385,Manu Sharma,70,Male,manu.sharma385@example.com,+91 9365051978,Mumbai,5025.64,29/10/2023
+CUST0386,Rahul Pillai,54,Other,rahul.pillai386@example.com,+91 8712733992,KOZHIKODE,9266.54,2024-04-03
+CUST0387,Ananya Mishra,64,Female,ananya.mishra387@example.com,+91 8816077181,,12621.19,2023-06-05
+CUST0388,Ananya Kumar,61,Male,ananya.kumar388@example.com,+91 8194382710,MUMBAI,4822.83,09-27-2023
+CUST0389,Aarav Menon,61,Other,aarav.menon389@example.com,+91 9501626370,thrissur ,17883.94,17/11/2023
+CUST0390,lakshmi REDDY,37,Other,lakshmi.reddy390@example.com,+91 8270777969,Kozhikode,16451.3,12-22-2024
+CUST0391,Arjun Sharma,58,Female,arjun.sharma391@example.com,,MUMBAI,17572.41,2024-01-15
+CUST0392,Rohan Das,48,Male,rohan.das392@example.com,+91 9924474170,Pune,17791.63,11-29-2025
+CUST0393,Meera Rao,24,Male,meera.rao393@example.com,+91 6299463504,kochi,9711.94,05-12-2023
+CUST0394,Nikhil Gupta,29,Other,nikhil.gupta394@example.com,+91 6111977932,Kottayam,17566.27,14/11/2024
+CUST0395,Neha Iyer,23,Other,neha.iyer395@example.com,+91 7375556583,Kottayam,16044.14,23/11/2024
+CUST0396,Pooja Patel,64,Female,pooja.patel396@example.com,+91 8805145241,kochi,3210.09,08/04/2026
+CUST0397,Ananya Varma,34,Female,ananya.varma397@example.com,+91 7610757659, Trivandrum ,1354.61,02-13-2023
+CUST0398,Kiran Iyer,24,Male,kiran.iyer398@example.com,+91 6109533207,ALAPPUZHA,17841.28,07/12/2024
+CUST0399,  RAHUL KUMAR  ,29,Other,rahul.kumar399@example.com,+91 8833785264,Kottayam,1129.39,04-14-2026
+CUST0400,Thomas Gupta,51,Male,thomas.gupta400@example.com,+91 6118705468,thiruvananthapuram,5199.29,2024-01-14
+CUST0401,Ishaan Iyer,70,Male,ishaan.iyer401@example.com,+91 8146233630,kochi,799.54,09-17-2024
+CUST0402,Sneha Reddy,58,Male,sneha.reddy402@example.com,+91 9706362203,MUMBAI,17510.67,2023-07-26
+CUST0403,Kiran Mishra,38,Male,,+91 6631364522, chennai ,15115.91,07-13-2024
+CUST0404,Lakshmi Varma,27,Female,lakshmi.varma404@example.com,+91 7151296831,KOZHIKODE,4966.51,09-08-2024
+CUST0405,Gopika Kumar,43,Other,gopika.kumar405@example.com,+91 9727674455,Mumbai,13057.7,14/09/2024
+CUST0406,,35,Female,arjun.iyer406@example.com,+91 7343743212,Calicut,7581.84,2023-05-11
+CUST0407,Ishaan Rao,,Female,ishaan.rao407@example.com,+91 8409835140,Bengaluru,11755.38,08-29-2025
+CUST0408,Thomas Joseph,57,Other,thomas.joseph408@example.com,(67539) 42046,Alappuzha,11689.87,28/02/2025
+CUST0409,Rahul Iyer,34,Other,rahul.iyer409@example.com,+91 9622412554,Calicut,6004.62,05-02-2023
+CUST0410,Kiran Gupta,40,,kiran.gupta410@example.com,+91 7881524292,Hyderabad,4828.42,07-19-2024
+CUST0411,Ishaan Kumar,18,Female,ishaan.kumar411@example.com,abcdefghij,Hyderabad,6471.68,02/08/2024
+CUST0412,Sanjay Das,66,Female,sanjay.das412@example.com,+91 7142088706,Calicut,14382.72,06-27-2023
+CUST0413,Rohan Nair,61,Male,rohan.nair413@example.com,+91 8303196981,thiruvananthapuram,4903.11,14/08/2024
+CUST0414,Sanjay Varma,59,Female,sanjay.varma414@example.com,,Kozhikode,17077.71,12-22-2024
+CUST0415,Kavya Iyer,73,Female,kavya.iyer415@example.com,+91 8402483692,Alappuzha,4166.91,02-04-2023
+CUST0416,Kavya Mishra,19,Other,kavya.mishra416@example.com,+91 7755549924,BANGALORE,6345.42,2025-05-04
+CUST0417,Neha Sharma,38,Other,neha.sharma417@example.com,+91 9248766302,BANGALORE,616.78,29/12/2023
+CUST0418,  NIKHIL MENON  ,28,Male,nikhil.menon418@example.com,+91 8346863884,thrissur ,11709.71,02-01-2024
+CUST0419,Rahul Mishra,43,Female,rahul.mishra419@example.com,+91 7069917931,Kochi,15568.7,06-01-2025
+CUST0420,Sanjay Mishra,20,Other,sanjay.mishra420@example.com,+91 8703596642,Bengaluru,2487.78,2025-01-20
+CUST0421,Aisha Singh,50,Male,aisha.singh421@example.com,+91 9585393213,Thrissur,9898.46,2025-03-15
+CUST0422,Neha Patel,26,Male,neha.patel422@example.com,+91 9676794490,Kozhikode,942.51,27/02/2026
+CUST0423,Sanjay Joseph,64,Other,sanjay.joseph423@example.com,+91 7701459799, Trivandrum ,,06-16-2023
+CUST0424,Gopika Iyer,30,Female,gopika.iyer424@example.com,+91 7678860119,Alappuzha,12982.16,
+CUST0425,Priya Varma,60,Female,priya.varma425@example.com,(87663) 79666,KOZHIKODE,8058.39,01-14-2025
+CUST0426,Neha Gupta,70,Male,neha.gupta426@example.com,+91 7271098765,BANGALORE,6655.84,04/06/2024
+CUST0427,Arjun Thomas,74,Female,arjun.thomas427@example.com,+91 6611125007,thiruvananthapuram,12703.81,06/12/2023
+CUST0428,Rohan Menon,75,Other,rohan.menon428@example.com,+91 8837465725,Chennai,11009.2,2025-06-27
+CUST0429,Ishaan Iyer,68,Female,ishaan.iyer429@example.com,+91 6187999994,Kottayam,13413.79,23/05/2025
+CUST0430,Arjun Pillai,61,Other,arjun.pillai430@example.com,+91 6138620928,,12414.83,03-15-2024
+CUST0431,Aarav Das,30,Male,aarav.das431@example.com,+91 7940336444,ALAPPUZHA,17417.81,02-13-2025
+CUST0432,Aditya Nair,63,Female,aditya.nair432@example.com,+91 8629965282,Bengaluru,17608.9,04-24-2025
+CUST0433,Aditya Patel,58,Male,aditya.patel433@example.com,+91 8835634870,Kochi,13722.02,11-10-2024
+CUST0434,Aarav Thomas,58,Male,,+91 8373668292,Chennai,17218.65,07-25-2024
+CUST0435,,66,Other,ishaan.pillai435@example.com,+91 8219722164,kochi,827.0,2025-08-27
+CUST0436,Aisha Kumar,35,Male,aisha.kumar436@example.com,+91 8283710075,kochi,9136.89,16/01/2023
+CUST0437,  POOJA PATEL  ,32,Male,pooja.patel437@example.com,,thrissur ,14181.65,27/11/2025
+CUST0438,Gopika Gupta,23,Other,gopika.gupta438@example.com,+91 9074889857,Mumbai,9192.2,2025-06-08
+CUST0439,Akhil Varma,60,Other,akhil.varma439@example.com,+91 9968128136,thrissur ,5362.1,11-01-2025
+CUST0440,Neha Rao,71,Other,neha.rao440@example.com,+91 6247625262,Chennai,9543.39,2024-07-23
+CUST0441,Arjun Reddy,74,Female,arjun.reddy441@example.com,+91 8969840869, KOCHI ,16872.46,06-14-2023
+CUST0442,Pooja Iyer,54,Male,pooja.iyer442@example.com,(71315) 74704,Kozhikode,14491.37,16/08/2024
+CUST0443,Neha Mishra,27,Other,neha.mishra443@example.com,+91 8873655483,Pune,17689.59,07-21-2025
+CUST0444,Pooja Rao,,Other,pooja.rao444@example.com,+91 8100159138,BANGALORE,829.27,10-26-2024
+CUST0445,Kavya Pillai,66,Male,kavya.pillai445@example.com,+91 6412033043,Hyderabad,3447.87,2025-04-21
+CUST0446,Neha Rao,54,Male,neha.rao446@example.com,+91 6990093536,Cochin,15564.54,02-10-2023
+CUST0447,Ishaan Kumar,74,Male,ishaan.kumar447@example.com,+91 9363845181,Mumbai,9266.25,10/04/2026
+CUST0448,Kavya Kumar,22,Female,kavya.kumar448@example.com,+91 8618852538,Hyderabad,7032.27,2023-01-27
+CUST0449,Sneha Iyer,71,Female,sneha.iyer449@example.com,+91 7273659059,Thiruvananthapuram,7547.06,2023-07-05
+CUST0450,Akhil Kumar,41,Male,akhil.kumar450@example.com,+91 7666881367,Kottayam,9975.24,2025-04-13
+CUST0451,Diya Menon,33,,diya.menon451@example.com,+91 8814899365,Cochin,1319.52,2025-04-21
+CUST0452,Aarav Mishra,75,Female,aarav.mishra452@example.com,+91 9858828642,KOZHIKODE,7755.05,01/03/2024
+CUST0453,Ishaan Patel,75,Female,ishaan.patel453@example.com,+91 7026298136,Kochi,7116.07,24/08/2025
+CUST0454,Meera Thomas,60,Other,meera.thomas454@example.com,+91 9112233730,Kozhikode,8819.91,2023-10-21
+CUST0455,Vikram Reddy,22,Male,vikram.reddy455@example.com,+91 7203849400,thiruvananthapuram,4094.77,27/10/2025
+CUST0456,  NEHA RAO  ,25,Male,neha.rao456@example.com,+91 8410841922,Chennai,15176.25,18/02/2025
+CUST0457,Aditya Mishra,43,Male,aditya.mishra457@example.com,+91 7861306854,Hyderabad,13432.92,2025-07-30
+CUST0458,Priya Varma,21,Male,priya.varma458@example.com,+91 7944480359,Mumbai,544.99,12-02-2023
+CUST0459,Aisha Menon,60,Male,aisha.menon459@example.com,(62545) 97582, Trivandrum ,16328.27,25/02/2024
+CUST0460,Aarav Thomas,37,Male,aarav.thomas460@example.com,,KOZHIKODE,10045.78,24/12/2025
+CUST0461,Kiran Kumar,20,Male,kiran.kumar461@example.com,+91 8475798305,thiruvananthapuram,3956.69,11-17-2025
+CUST0462,Aarav Reddy,56,Other,aarav.reddy462@example.com,+91 7254181975,Chennai,14391.68,01-04-2025
+CUST0463,Vikram Varma,56,Female,vikram.varma463@example.com,+91 6512116766,Bengaluru,3240.05,30/05/2024
+CUST0464,,52,Male,gopika.rao464@example.com,+91 9050045528,BANGALORE,10208.83,02-28-2023
+CUST0465,Manu Varma,38,Other,,+91 6065563611,Delhi,15303.85,2025-05-07
+CUST0466,Vikram Patel,31,Male,vikram.patel466@example.com,+91 8847444807,thrissur ,13978.61,09/11/2024
+CUST0467,Lakshmi Reddy,52,Other,lakshmi.reddy467@example.com,+91 8002600036,Pune,1901.17,11-04-2023
+CUST0468,Akhil Pillai,56,Female,akhil.pillai468@example.com,+91 8829909346,Calicut,15499.32,2024-12-23
+CUST0469,Kavya Reddy,45,Other,kavya.reddy469@example.com,+91 7474099940,Kochi,3729.42,2026-04-04
+CUST0470,Aisha Singh,19,Other,aisha.singh470@example.com,+91 8279601865,Thiruvananthapuram,,10-13-2023
+CUST0471,Pooja Pillai,42,Female,pooja.pillai471@example.com,+91 6480658119,kochi,14432.33,2024-02-16
+CUST0472,Pooja Iyer,70,Male,pooja.iyer472@example.com,+91 7901094918,BANGALORE,13326.91,04/03/2025
+CUST0473,Aisha Rao,49,Female,aisha.rao473@example.com,+91 6764825309,,7921.77,06/02/2023
+CUST0474,Aditya Menon,69,Male,aditya.menon474@example.com,+91 6022507916,KOZHIKODE,17097.13,02-01-2023
+CUST0475,  THOMAS MENON  ,63,Male,thomas.menon475@example.com,+91 9637847894,ALAPPUZHA,7816.77,2023-08-03
+CUST0476,Ananya Mishra,37,Female,ananya.mishra476@example.com,(77039) 66752, KOCHI ,4444.18,2024-07-23
+CUST0477,Kavya Das,58,Female,kavya.das477@example.com,+91 6267243559,ALAPPUZHA,12838.56,
+CUST0478,Rahul Nair,67,Male,rahul.nair478@example.com,+91 8607831596,Kozhikode,10406.55,28/12/2025
+CUST0479,Sneha Singh,65,Other,sneha.singh479@example.com,+91 8445449403,Mumbai,8157.22,2024-12-06
+CUST0480,Aarav Das,67,Male,aarav.das480@example.com,+91 9519709329,Bengaluru,14393.48,2023-09-13
+CUST0481,Pooja Kumar,,Male,pooja.kumar481@example.com,+91 7435021149,thrissur ,7376.09,06/09/2025
+CUST0482,Ishaan Varma,56,Female,ishaan.varma482@example.com,+91 6830262198,Mumbai,11893.51,2023-07-31
+CUST0483,Rohan Reddy,34,Male,rohan.reddy483@example.com,,MUMBAI,6317.43,04-04-2024
+CUST0484,Nikhil Thomas,45,Other,nikhil.thomas484@example.com,+91 6210293020,thiruvananthapuram,4758.92,10-01-2024
+CUST0485,Rohan Joseph,48,Female,rohan.joseph485@example.com,+91 7229123426,Delhi,12899.21,09-14-2023
+CUST0486,Kiran Joseph,25,Other,kiran.joseph486@example.com,+91 7607260565,Thrissur,16423.47,18/07/2025
+CUST0487,Manu Reddy,58,Male,manu.reddy487@example.com,+91 7832685213,Kochi,5879.34,01-26-2025
+CUST0488,Pooja Rao,59,Male,pooja.rao488@example.com,+91 6578632337,kochi,15857.67,01-22-2026
+CUST0489,Vikram Patel,74,Female,vikram.patel489@example.com,+91 9107799605,Calicut,8878.53,24/01/2024
+CUST0490,Neha Thomas,39,Other,neha.thomas490@example.com,+91 7617849202,Thiruvananthapuram,8264.05,2026-03-27
+CUST0005,Arjun Reddy,19,Male,arjun.reddy5@example.com,+91 9727524884,KOZHIKODE,16753.47,2023-04-11
+CUST0020,Diya Das,69,Female,diya.das20@example.com,+91 8077780132,Mumbai,13993.26,2024-11-02
+CUST0040,Pooja Gupta,32,Female,pooja.gupta40@example.com,+91 7860169142,Thiruvananthapuram,999999,08-04-2023
+CUST0060,Aditya Patel,28,Male,aditya.patel60@example.com,+91 7311572871,KOZHIKODE,12800.06,07/10/2025
+CUST0080,Aisha Joseph,19,Male,aisha.joseph80@example.com,+91 9529521107,kochi,2217.31,12/02/2025
+CUST0100,Ananya Iyer,42,Other,ananya.iyer100@example.com,+91 7460883189,Bengaluru,12021.56,02-07-2025
+CUST0150,Rohan Menon,75,Female,rohan.menon150@example.com,+91 9668213171,kochi,125000,13/01/2025
+CUST0200,Pooja Patel,36,Male,pooja.patel200@example.com,+91 8321773558,Cochin,1093.8,09-05-2024
+CUST0250,Aisha Singh,21,Female,aisha.singh250@example.com,+91-98AB123456,KOZHIKODE,16977.36,13/11/2025
+CUST0300,Ananya Varma,27,Female,ananya.varma300@example.com,+91 8284100864,Bengaluru,3752.14,2025-02-03
